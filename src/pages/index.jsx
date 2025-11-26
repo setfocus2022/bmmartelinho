@@ -39,10 +39,10 @@ export default function Home() {
         />
         <meta
           name="keywords"
-          content="Martelinho de Ouro, Funilaria, Pintura"
+          content="eletro santa clara, materiais elétricos, média tensão,ferragens, alta tensão, tomada, interruptor, disjuntor, contator, para-raio, poste, transformador
           "
         />
-        <meta name="author" content="BM Martelinho de Ouro" />
+        <meta name="author" content="Santa Clara" />
         
                
       </Head>
@@ -63,7 +63,7 @@ export default function Home() {
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            BM Martelinho de Ouro é uma empresa de Martelinho de Ouro, Funilaria e Pintura, que atende Lençóis Paulista e região.
+            A Eletro Santa Clara é uma empresa de comércio de material elétrico residencial, comercial e industrial que atende Lençóis Paulista e região.
 Nossa missão é entregar qualidade e preço baixo para proporcionar máxima satisfação aos nossos Clientes.
             </p>
            
@@ -75,10 +75,10 @@ Nossa missão é entregar qualidade e preço baixo para proporcionar máxima sat
             >
               <Button
                 onClick={agendarConsulta}
-                link="https://wa.me/5514996111525"
+                link="https://wa.me/5514981189197"
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-                Fale Conosco
+                Fale com nossos Vendedores
               </Button>
               {/* <span>
                 Ou nos ligue: <strong>(14) 3264-9999</strong>
@@ -122,7 +122,7 @@ Nossa missão é entregar qualidade e preço baixo para proporcionar máxima sat
 
           <div className={styles.aboutRightContent} data-aos="fade-up">
             <h3>
-              <strong2>Referência em Qualidade em Recuperação de Amassados de chuva de pedra em</strong2> <strong>Lençóis Paulista e Região.</strong>
+              <strong2>Referência em Qualidade de Materiais Elétricos em</strong2> <strong>Lençóis Paulista e Região.</strong>
             </h3>
             <p>
             
