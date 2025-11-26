@@ -39,10 +39,9 @@ export default function Home() {
         />
         <meta
           name="keywords"
-          content="eletro santa clara, materiais elétricos, média tensão,ferragens, alta tensão, tomada, interruptor, disjuntor, contator, para-raio, poste, transformador
-          "
+          content="BM Martelinho de Ouro"
         />
-        <meta name="author" content="Santa Clara" />
+        <meta name="author" content="BM Materlinho de Ouro" />
         
                
       </Head>
