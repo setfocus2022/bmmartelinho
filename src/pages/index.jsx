@@ -62,7 +62,7 @@ export default function Home() {
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            A Eletro Santa Clara é uma empresa de comércio de material elétrico residencial, comercial e industrial que atende Lençóis Paulista e região.
+            BM Martelinho é uma empresa de Estetica Veícular especializada em Martelinho de Ouro, Funilaria e Pintura Automotiva, que atende Lençóis Paulista e região.
 Nossa missão é entregar qualidade e preço baixo para proporcionar máxima satisfação aos nossos Clientes.
             </p>
            
@@ -74,10 +74,10 @@ Nossa missão é entregar qualidade e preço baixo para proporcionar máxima sat
             >
               <Button
                 onClick={agendarConsulta}
-                link="https://wa.me/5514981189197"
+                link="https://wa.me/5514996111525"
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-                Fale com nossos Vendedores
+                Fale Conosco
               </Button>
               {/* <span>
                 Ou nos ligue: <strong>(14) 3264-9999</strong>
@@ -121,7 +121,7 @@ Nossa missão é entregar qualidade e preço baixo para proporcionar máxima sat
 
           <div className={styles.aboutRightContent} data-aos="fade-up">
             <h3>
-              <strong2>Referência em Qualidade de Materiais Elétricos em</strong2> <strong>Lençóis Paulista e Região.</strong>
+              <strong2>Referência em Qualidade de Martelinho de Ouro em</strong2> <strong>Lençóis Paulista e Região.</strong>
             </h3>
             <p>
             
