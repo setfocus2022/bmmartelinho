@@ -19,14 +19,14 @@ export const Footer = ({ children, link = "/" }) => {
           </Link>
 
           <div>
-            <h3>Eletro Santa Clara - Loja 1</h3>
+            <h3>BM Martelinho de Ouro </h3>
             <ul>
-              <li>(14) 3269-1057</li>
-              <li>vendas@eletrosantaclara.com.br</li>
-              <li>Av. Brasil, 589- Centro</li>
+              <li>(14) 99611-1525 </li>
+              <li> </li>
+              <li>Rua Joaquim Maria Contente, 30 </li>
               <li>Lençóis Paulista - SP</li>
               <li className={styles.social}>
-                <Link href="https://www.instagram.com/eletrosantaclara">
+               {/*  <Link href="https://www.instagram.com/eletrosantaclara">
                   <a target="_blank">
                     <Image
                       src="/icons/instaFooter.svg"
@@ -45,7 +45,7 @@ export const Footer = ({ children, link = "/" }) => {
                       height="30"
                     />
                   </a>
-                </Link>
+                </Link> */}
                 {/* <Link href="/">
                   <a>
                     <Image
@@ -59,14 +59,14 @@ export const Footer = ({ children, link = "/" }) => {
               </li>
             </ul>
           </div>
-
+         {/* 
           <div>
             <h3>Eletro Santa Clara - loja 2</h3>
             <p> Rua Pastor Natalino Paulino, nº. 260, Vila Santa Cecília</p>
             <p>Fone 14 3269.1717 - 14 98118.8248</p>
-          </div>
+          </div>*/}
 
-          <div>
+          {/*  <div>
             <h3>Atendimento</h3>
             <p>Seg - Sex: 07:00 - 18:00</p>
             <p>Sáb: até 12h - Dom: Fechado</p>
@@ -75,7 +75,7 @@ export const Footer = ({ children, link = "/" }) => {
                   Política de Privacidade  
                   </a>
                 </Link> </p>
-          </div>
+          </div> */}
         </div>
       </footer>
 
