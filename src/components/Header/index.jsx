@@ -26,7 +26,7 @@ export const Header = () => {
     gtag.event({
       action: "agendar_consulta_cabeçalho",
       category: "marcar_consulta_whatsapp_cabeçalho",
-      label: "Fale com nossos vendedores",
+      label: "Fale Conosco",
       value: "Fale Conosco",
     });
   }
@@ -39,7 +39,7 @@ export const Header = () => {
             <a>
               <Image
                 src="/icons/logo_transparente.png"
-                alt="Eletro Santa Clara"
+                alt="BM Martelinho de Ouro"
                 width="180"
                 height="64"
               />
@@ -63,7 +63,7 @@ export const Header = () => {
               <a>Home</a>
             </Link>
             <Link href="/produtos">
-              <a>Produtos</a>
+              <a>Serviços</a>
             </Link>
             <Link href="/empresa">
               <a>A Empresa</a>
@@ -83,10 +83,10 @@ export const Header = () => {
             <Button
               dark
               onClick={agendarConsulta}
-              link="https://wa.me/5514981189197"
+              link="https://wa.me/5514996111525"
             >
                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-              Fale com nossos vendedores
+              Fale Conosco
             </Button>
           </div>
         </div>
