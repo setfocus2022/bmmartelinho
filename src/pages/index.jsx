@@ -126,9 +126,10 @@ Nossa missão é entregar qualidade e preço baixo para proporcionar máxima sat
             <p>
             
             </p>
+             {/*
             <Button link="/empresa" target="_self">
               Ver Mais
-            </Button>
+            </Button> */}
           </div>
 
 
