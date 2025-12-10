@@ -72,11 +72,11 @@ export const Header = () => {
             
             <Link href="/vendedores">
               <a>Contato</a>
-            </Link> */}
+            </Link> 
 
             <Link href="/orcamento">
               <a>Orçamento</a>
-            </Link>
+            </Link> */}
  
           </nav>
 
