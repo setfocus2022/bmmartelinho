@@ -43,7 +43,10 @@ export default function Home() {
         />
         <meta name="author" content="BM Materlinho de Ouro" />
 
-   
+      
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-831826191">
+</script>
+
                
       </Head>
 
