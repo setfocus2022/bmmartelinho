@@ -105,6 +105,7 @@ export const Header = () => {
                 <a>Home</a>
               </Link>
             </li>
+             {/*
             <li onClick={closeMenu}>
               <Link href="/produtos">
                 <a>produtos</a>
@@ -126,9 +127,10 @@ export const Header = () => {
               <Link href="/orcamento#zbwid-1579615">
                 <a>Orçamento</a>
               </Link>
-            </li>
+            </li> */}
+            
             <li onClick={agendarConsultaMenu}>
-              <Link href="https://wa.me/5514981189197">
+              <Link href="https://wa.me/5515996111525">
                 <a target="_blank">Fale com um vendedor</a>
               </Link>
             </li>
