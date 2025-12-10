@@ -42,7 +42,16 @@ export default function Home() {
           content="BM Martelinho de Ouro"
         />
         <meta name="author" content="BM Materlinho de Ouro" />
-        
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-831826191">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-831826191');
+</script>
                
       </Head>
 
