@@ -58,7 +58,7 @@ export default function Home() {
         <div className={`mainContainer ${styles.heroWrap}`}>
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
-              BM Martelinho de Ouro Agende seu <strong>Atendimento</strong>
+              Agende seu <strong>Atendimento</strong>
             </h1>
 
           
